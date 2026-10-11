@@ -102,7 +102,9 @@ Switching routings fades the output out and back in over a few milliseconds, so 
 
 The three buttons at the bottom right of the meter choose what it shows.
 GR, the default, shows how much the compressor is pushing the sound down. The needle rests on 0 and moves left as it compresses.
-IN and OUT show the level entering and leaving the compressor, like a classic analogue VU meter: 0 VU equals −18 dBFS. Handy to check what reaches Compressor 2 when the two are in series.
+IN and OUT show the level entering and leaving the compressor, like a classic analogue VU meter.
+0 VU equals −18 dBFS. Handy to check what reaches Compressor 2 when the two are in series.
+Some will say this value makes no sense in the digital world. I gladly hear their arguments, but I simply followed the recommendation of the European Broadcasting Union, [EBU R 68](https://tech.ebu.ch/files/live/sites/tech/files/shared/r/r068.pdf). Our American friends will object that 2 dB should be taken off, but I live in Paris, which is in France, and therefore in Europe. I hope everyone will forgive my chauvinism here. :)
 
 #### THRESHOLD
 
